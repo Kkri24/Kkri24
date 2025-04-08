@@ -5,12 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="akashbhaiya" /> </p>
 
 # 🌐 Data Analyst | Passionate About Data-Driven Insights  
-Hi there! 👋 I'm Akash Vishwakarma , a Data Analyst with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
+Hi there! 👋 I'm Krishna Tiwari , a Data Analyst with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
 
 ---
 ## 🌱 Current Endeavors  
 🎓 *Pursuing Data Analytics* at *Masai School* (OCT 2024 - Current)  
-🎓 *Recent graduate* of *Narula Institue of Technology, where I earned a **Engineering in Electronics and Communication* (Nov 2020 - Jun 2024) 
+🎓 *Recent graduate* of *Indira Gandhi Girls Govt. College, where I earned a **Bachelor of Science in Computer Science* (August 2021 - January 2025) 
 
 ---
 
@@ -77,13 +77,13 @@ I enjoy building *dashboards, creating **predictive models, and experimenting wi
 ## 🌱 Let’s Connect!  
 Feel free to reach out or collaborate with me:  
 <div>
-  <a href="https://github.com/akashBhaiya">
+  <a href="https://github.com/Kkri24">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/akash-vishwakarma-396b89210">
+  <a href="https://www.linkedin.com/in/krishna-tiwari-b53bb7256/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="akashvishwakarmaav84@gmail.com">
+  <a href="krishnatiwarit549@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
