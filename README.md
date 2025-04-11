@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/f8cf6e8d-fd6f-43e1-b7e3-c2f70f243c41)
+
 
 
 # 🌐 Data Analyst | Passionate About Data-Driven Insights  
