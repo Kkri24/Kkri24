@@ -1,5 +1,4 @@
 
-![logo](https://github.com/user-attachments/assets/f8cf6e8d-fd6f-43e1-b7e3-c2f70f243c41)
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*f-VZ7NhXFQiNIeKtySmViA.png">
 
