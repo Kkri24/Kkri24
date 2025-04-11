@@ -90,14 +90,13 @@ Feel free to reach out or collaborate with me:
 ---
 
 ### 📊 GitHub Activity  
-![Krishna's Contributions](https://github-readme-stats.vercel.app/api?username=krishna-tiwarix&show_icons=true&theme=radical&hide_border=true)
+![Krishna's Contributions](https://github-readme-stats.vercel.app/api?username=shailesh-1011&show_icons=true&theme=radical&hide_border=true)
 
 ### 🧑‍💻 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-tiwarix&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-1011&layout=compact&theme=radical&hide_border=true)
 
 ### 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=krishna-tiwarix&theme=radical&no-frame=true&margin-w=15)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=shailesh-1011&theme=radical&no-frame=true&margin-w=15)
 
 
 
