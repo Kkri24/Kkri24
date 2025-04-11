@@ -1,16 +1,18 @@
+
 ![logo](https://github.com/user-attachments/assets/f8cf6e8d-fd6f-43e1-b7e3-c2f70f243c41)
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*f-VZ7NhXFQiNIeKtySmViA.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="akashbhaiya" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-tiwarix&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-tiwarix" /> </p>
 
 # 🌐 Data Analyst | Passionate About Data-Driven Insights  
-Hi there! 👋 I'm Krishna Tiwari , a Data Analyst with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
+Hi there! 👋 I'm **Krishna Tiwari**, a Data Analyst with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
 
 ---
+
 ## 🌱 Current Endeavors  
-🎓 *Pursuing Data Analytics* at *Masai School* (OCT 2024 - Current)  
-🎓 *Recent graduate* of *Indira Gandhi Girls Govt. College, where I earned a **Bachelor of Science in Computer Science* (August 2021 - January 2025) 
+🎓 *Pursuing Data Analytics* at *Masai School* (Oct 2024 - Present)  
+🎓 *Recent graduate* of *Indira gandhi girls govt. college*, with a degree in **Computer Science** (Aug 2021 - Jun 2025)
 
 ---
 
@@ -19,7 +21,7 @@ I thrive on *problem-solving* 🧩, *teamwork* 🤝, and *adaptability* 🌀. Wh
 
 ---
 
-### 🔧 Programming Languages I know
+### 🔧 Programming Languages I Know
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
@@ -27,7 +29,7 @@ I thrive on *problem-solving* 🧩, *teamwork* 🤝, and *adaptability* 🌀. Wh
 
 ---
 
-## 🛠 Tech I have worked on 
+## 🛠 Tech I Have Worked On 
 💻 *Languages & Tools:*  
 Python 🐍, SQL 💾
 
@@ -38,9 +40,9 @@ Data Analysis & Visualization 📈
 Power BI 📊, Matplotlib 📉, Seaborn 🎨  
 
 🛠 *Other Skills:*  
-Numpy 🧮, Pandas 🐼  
+NumPy 🧮, Pandas 🐼  
 
-I enjoy building *dashboards, creating **predictive models, and experimenting with **API* to derive actionable insights. 🤖  
+I enjoy building *dashboards*, creating **predictive models**, and experimenting with **APIs** to derive actionable insights. 🤖  
 
 ---
 
@@ -58,7 +60,6 @@ I enjoy building *dashboards, creating **predictive models, and experimenting wi
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
 </div>
 
-
 ### 📂 Databases  
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -73,28 +74,36 @@ I enjoy building *dashboards, creating **predictive models, and experimenting wi
 
 ---
 
-
 ## 🌱 Let’s Connect!  
 Feel free to reach out or collaborate with me:  
 <div>
-  <a href="https://github.com/Kkri24">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/krishna-tiwari-b53bb7256/">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="krishnatiwarit549@gmail.com">
+  <a href="mailto:krishnatiwarit549@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
---- 
+---
 
 ### 📊 GitHub Activity  
-![Shailesh's Contributions](https://github-readme-stats.vercel.app/api?username=shailesh-1011&show_icons=true&theme=radical&hide_border=true)
+![Krishna's Contributions](https://github-readme-stats.vercel.app/api?username=krishna-tiwarix&show_icons=true&theme=radical&hide_border=true)
 
 ### 🧑‍💻 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-1011&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-tiwarix&layout=compact&theme=radical&hide_border=true)
 
 ### 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=shailesh-1011&theme=radical&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=krishna-tiwarix&theme=radical&no-frame=true&margin-w=15)
+
+
+
+
+
+
+
+
+  
