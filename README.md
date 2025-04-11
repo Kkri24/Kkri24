@@ -89,15 +89,6 @@ Feel free to reach out or collaborate with me:
 
 ---
 
-### 📊 GitHub Activity  
-![Krishna's Contributions](https://github-readme-stats.vercel.app/api?username=krishna-1011&show_icons=true&theme=radical&hide_border=true)
-
-### 🧑‍💻 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-1011&layout=compact&theme=radical&hide_border=true)
-
-### 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=krishna-1011&theme=radical&no-frame=true&margin-w=15)
-
 
 
 
