@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*f-VZ7NhXFQiNIeKtySmViA.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-tiwarix&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-tiwarix" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kkri24&label=Profile%20views&color=0e75b6&style=flat" alt="Kkri24" /> </p>
 
 # 🌐 Data Analyst | Passionate About Data-Driven Insights  
 Hi there! 👋 I'm **Krishna Tiwari**, a Data Analyst with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
@@ -72,6 +72,14 @@ I enjoy building *dashboards*, creating **predictive models**, and experimenting
 </div>
 
 ---
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kkri24&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkri24&theme=radical" alt="GitHub streak" />
+</p>
+
+
+
 
 ## 🌱 Let’s Connect!  
 Feel free to reach out or collaborate with me:  
@@ -89,6 +97,11 @@ Feel free to reach out or collaborate with me:
 
 ---
 
+## 🎨 Fun Corner  
+```python
+while not successful:
+    try_again()
+    keep_learning()
 
 
 
