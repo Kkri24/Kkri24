@@ -1,6 +1,4 @@
-
-
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*f-VZ7NhXFQiNIeKtySmViA.png">
+<img align="right" alt="coding girl" width="400" src="https://cdn.pixabay.com/photo/2020/04/17/09/36/woman-5052874_1280.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kkri24&label=Profile%20views&color=0e75b6&style=flat" alt="Kkri24" /> </p>
 
@@ -78,8 +76,7 @@ I enjoy building *dashboards*, creating **predictive models**, and experimenting
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkri24&theme=radical" alt="GitHub streak" />
 </p>
 
-
-
+---
 
 ## 🌱 Let’s Connect!  
 Feel free to reach out or collaborate with me:  
@@ -90,7 +87,7 @@ Feel free to reach out or collaborate with me:
   <a href="https://www.linkedin.com/in/krishna-tiwari-b53bb7256/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto :krishnatiwarit549@gmail.com">
+  <a href="mailto:krishnatiwarit549@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
@@ -102,6 +99,7 @@ Feel free to reach out or collaborate with me:
 while not successful:
     try_again()
     keep_learning()
+
 
 
 
